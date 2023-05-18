@@ -1,1 +1,1 @@
-# MY_FIRST_Repo
+# MY_FIRST_Repo git directory
